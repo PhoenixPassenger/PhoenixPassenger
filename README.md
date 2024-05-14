@@ -13,7 +13,7 @@
 var rodrigo: IosDeveloper = {
   let dev = IosDeveloper()
   dev.pronouns = "He/His"
-  dev.code = ["Swift", "Objective-C", "Javascript", "Typescript", "Python"]
+  dev.code = ["Swift", "Objective-C", "Javascript", "Typescript", "Python", "C++", "C#"]
   dev.hobbies = ["Listening to music", "Playing computer games", "Playing board games", "D&D", "Cooking"]
   dev.favoriteBand = "Twenty One Pilots"
   return dev
