@@ -1,6 +1,5 @@
 <h2> Hello, I'm Rodrigo Ribeiro! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/source.gif?cid=ecf05e47pttbcj7dxt5xing8piv3mn74emog85qui3bm3f4w&rid=source.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/5bo9in06u6OechEiGH/source.gif?cid=ecf05e47kafjn5678ldyv3q45pkts9sed527hnt3b2wcfom9&rid=source.gif&ct=ts" width="230">
-<p><em>Computer Science Student at <a href="https://ifce.edu.br">Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 </em></p>
 
 [![Linkedin: rodrigoribeiroklr](https://img.shields.io/badge/-rodrigoribeiroklr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoribeiroklr//)](https://www.linkedin.com/in/rodrigoribeiroklr/)
